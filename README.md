@@ -1,1 +1,1 @@
-MERN Stack Based Web Aplication 
+MERN Stack Based Web Application 
